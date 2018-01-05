@@ -135,6 +135,7 @@ Start: 2018/3/17 07:51:00 end: 2019/3/6 07:10:19 months: 12 lunes: 342
 The day found is in 2019! If you look at the year summary, you can see the year started on March 17th, so March 1st is in the previous year. Let's set the year to 2017 and try again.
 
 ```
+>>> year = luneYear(2017)
 >>> year.lune(*year.find(3,1)).detail()
 1/3 Start: 2017/2/28 08:12:19 end: 2017/3/1 08:45:31 hours: 24.55 phase: 0.05
 ```
