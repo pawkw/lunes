@@ -14,3 +14,10 @@ On Windows, assuming you have Python 3 installed already, type `pip install pyep
 
 To get a quick summary for the current year, type `python lunes.py`. On Linux you may have to use the command `python3` to specify Python 3. You can have more fun in interactive mode. See the [tutorial](tutorial.md).
 
+## TODO
+
+- [ ] Add command line parameter handling.
+- [ ] Allow users to specify their own location.
+- [ ] Print out month calendar in MarkDown.
+- [ ] Print out full year calendar in MarkDown.
+- [ ] HTML output.
