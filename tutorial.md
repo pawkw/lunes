@@ -93,9 +93,9 @@ Start: 2018/3/17 07:51:00 end: 2019/3/6 07:10:19 months: 12 lunes: 342
 Start: 2018/3/17 07:51:00 end: 2019/3/6 07:10:19 months: 12 lunes: 342
 ```
 
-## Using the find(month, day) method. It returns a tuple of the lune found.
+## Using the find(month, day) method.
 
-You can look up a date using the find(month, day) method.
+You can look up a date using the find(month, day) method.  It returns a tuple of the lune found.
 
 ```
 >>> year.find(6,1)
